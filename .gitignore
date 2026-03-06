@@ -1,0 +1,25 @@
+# Build outputs
+artifacts/
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# OS / tooling
+.DS_Store
+Thumbs.db
+*.lnk
+
+# Published binaries
+*.exe
+*.pdb
+
+# Runtime files
+McTestPanel/connection.csv
+McTestPanel/devices.csv
+*.log
