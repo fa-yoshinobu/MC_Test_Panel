@@ -96,7 +96,7 @@ alwaysOnTop,True
 
 **ライセンス**
 1. アプリ本体: MIT License
-1. McpX: MIT  
+1. McpX: MIT License
 ```
 https://github.com/YudaiKitamura/McpX
 ```
